@@ -5,6 +5,7 @@ MyReads is a simple book management app for the Udacity Front End Project (6).Th
 In order to install and use this project you must run a backend server and run these two commands in your console of choice.
 1) npm install
 2) npm start
+3) Run localhost:3000 on your browser of choice
 
 These two commands will install all of the dependencies needed for this project and will start the server
 
