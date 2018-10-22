@@ -9,7 +9,7 @@ In order to install and use this project you must run a backend server and run t
 These two commands will install all of the dependencies needed for this project and will start the server
 
 
-#Development Notes provided by Udacity
+# Development Notes provided by Udacity
 
 ## Backend Server
 
